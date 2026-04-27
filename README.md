@@ -19,6 +19,10 @@
 
 ---
 
+## Fork Note
+
+This repository is a fork of `is-a-dev/register`. Use it to prepare and validate domain registration changes before opening pull requests against the upstream project. Keep the fork synchronized with upstream before editing domain records.
+
 ## Announcements
 Please join our [Discord server](https://discord.gg/is-a-dev-830872854677422150) for announcements, service updates, and downtime notifications regarding the service.
 
